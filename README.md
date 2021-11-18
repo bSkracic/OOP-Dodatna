@@ -29,7 +29,7 @@ Dodajte proizvod [proizvod_id] [kolicina]:  100001 3
 Proizvod nije dostupan u trazenoj kolicini
 ```
 
-## 2. Zadatak: Politički lov
+## 2. Zadatak: Napad-Obrana-Pregovor
 
 Potrebno je osmilisiti *text-based* igru u kojoj vaša junakinja ili junak nasumično susreće sljedeće neprijatelje:
 
@@ -60,9 +60,9 @@ U prvom krugu odabire nasumičnu akciju, a ukoliko dođe do izjednačenja (eng. 
 Ima 60 % šanse da odigra akciju napada, 20% šanse da odigra akciju obrane i 10% šanse da odigra akciju pregovora i 10% šanse da se preda, odnosno da se odma pokaže poruka njegovog gubitka.
 
 - Šefovi: \
-Ivica Todorić ima 90% šanse da odigra akciju obrane, 5% šanse da odigra akciju pregovora i 5% šanse da odigra akciju obrane. \
-Zoki ima 90% šanse da izvuce napad, 5% sanse da izvuce obranu i 5% sanse da izvuce obranu. \
-Njonjo ima 90% šanse da izvuce pregovore, 5% sanse da izvuce napad i 5% sanse da izvuce obranu. 
+Šef "Ćaća" ima 90% šanse da odigra akciju obrane, 5% šanse da odigra akciju pregovora i 5% šanse da odigra akciju obrane. \
+Šef "Franjo" ima 90% šanse da izvuce napad, 5% sanse da izvuce obranu i 5% sanse da izvuce obranu. \
+Šef "Milo moje" ima 90% šanse da izvuce pregovore, 5% sanse da izvuce napad i 5% sanse da izvuce obranu. 
 
 Primjer početka:\
 (Igračev unos označen je između znakova '<' i '>', npr. <Pero<t>>)
